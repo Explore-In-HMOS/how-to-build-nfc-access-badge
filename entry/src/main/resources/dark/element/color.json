@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "badge_background",
+      "value": "#0F1519"
+    },
+    {
+      "name": "badge_panel",
+      "value": "#182026"
+    },
+    {
+      "name": "badge_primary",
+      "value": "#69B7E1"
+    },
+    {
+      "name": "badge_primary_soft",
+      "value": "#18394C"
+    },
+    {
+      "name": "badge_success",
+      "value": "#74D39B"
+    },
+    {
+      "name": "badge_success_soft",
+      "value": "#173C28"
+    },
+    {
+      "name": "badge_warning",
+      "value": "#F0C15B"
+    },
+    {
+      "name": "badge_warning_soft",
+      "value": "#463512"
+    },
+    {
+      "name": "badge_text_primary",
+      "value": "#F3F7FA"
+    },
+    {
+      "name": "badge_text_secondary",
+      "value": "#B0C0CB"
+    },
+    {
+      "name": "badge_border",
+      "value": "#31404A"
+    },
+    {
+      "name": "badge_button_text_on_primary",
+      "value": "#FFFFFF"
+    }
+  ]
+}

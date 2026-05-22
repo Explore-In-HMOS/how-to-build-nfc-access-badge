@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NFC Access Badge"
+    },
+    {
+      "name": "app_title",
+      "value": "NFC Access Badge"
+    },
+    {
+      "name": "app_subtitle",
+      "value": "Lab Door Check"
+    },
+    {
+      "name": "instruction_ready",
+      "value": "Hold watch near tag"
+    },
+    {
+      "name": "scan_button",
+      "value": "Scan"
+    },
+    {
+      "name": "clear_button",
+      "value": "Clear"
+    },
+    {
+      "name": "details_title",
+      "value": "Tag Details"
+    },
+    {
+      "name": "logs_title",
+      "value": "NFC Log"
+    },
+    {
+      "name": "clear_logs_button",
+      "value": "Clear Logs"
+    },
+    {
+      "name": "logs_empty",
+      "value": "No NFC logs yet"
+    },
+    {
+      "name": "result_title",
+      "value": "Badge"
+    },
+    {
+      "name": "scan_hint",
+      "value": "Real tags scan automatically"
+    },
+    {
+      "name": "status_ready",
+      "value": "Ready"
+    },
+    {
+      "name": "status_scanning",
+      "value": "Scanning"
+    },
+    {
+      "name": "status_granted",
+      "value": "Access Granted"
+    },
+    {
+      "name": "status_denied",
+      "value": "Access Denied"
+    },
+    {
+      "name": "status_unsupported",
+      "value": "Unsupported Tag"
+    },
+    {
+      "name": "status_failed",
+      "value": "Read Failed"
+    },
+    {
+      "name": "label_door",
+      "value": "Door"
+    },
+    {
+      "name": "label_badge",
+      "value": "Badge"
+    },
+    {
+      "name": "label_holder",
+      "value": "Holder"
+    },
+    {
+      "name": "label_access",
+      "value": "Access"
+    },
+    {
+      "name": "label_tech",
+      "value": "Tech"
+    },
+    {
+      "name": "label_connected",
+      "value": "Connected"
+    },
+    {
+      "name": "label_timeout",
+      "value": "Timeout"
+    },
+    {
+      "name": "label_max_transmit",
+      "value": "Max transmit"
+    },
+    {
+      "name": "label_uid",
+      "value": "UID"
+    },
+    {
+      "name": "label_source",
+      "value": "Source"
+    },
+    {
+      "name": "value_timeout_ms",
+      "value": "%d ms"
+    },
+    {
+      "name": "value_bytes",
+      "value": "%d bytes"
+    },
+    {
+      "name": "label_records",
+      "value": "Records"
+    },
+    {
+      "name": "value_no_badge",
+      "value": "No badge scanned"
+    },
+    {
+      "name": "value_yes",
+      "value": "Yes"
+    },
+    {
+      "name": "value_no",
+      "value": "No"
+    },
+    {
+      "name": "value_not_available",
+      "value": "Not available"
+    },
+    {
+      "name": "demo_note",
+      "value": "Demo reader, not card emulation"
+    }
+  ]
+}
